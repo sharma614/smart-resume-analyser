@@ -1,0 +1,7 @@
+{
+  "Programming Languages": ["python", "java", "javascript", "c++", "c#", "go", "ruby", "php", "swift", "kotlin", "typescript", "rust", "scala", "dart", "html", "css", "r", "matlab", "bash", "shell"],
+  "Frameworks": ["react", "fastapi", "django", "flask", "tensorflow", "angular", "vue", "spring", "express", "next", "nest", "keras", "pytorch", "node", "ruby on rails", "laravel", "bootstrap", "tailwind"],
+  "Databases": ["sql", "mysql", "postgresql", "mongodb", "redis", "elasticsearch", "cassandra", "oracle", "sqlite", "dynamodb", "mariadb", "firebase", "neo4j"],
+  "Cloud": ["aws", "gcp", "azure", "docker", "kubernetes", "jenkins", "github actions", "gitlab", "terraform", "ansible", "linux", "unix", "heroku", "netlify", "vercel", "apache", "nginx", "ci/cd", "devops"],
+  "Data Science": ["pandas", "numpy", "scikit-learn", "matplotlib", "seaborn", "nltk", "spacy", "huggingface", "opencv", "tableau", "powerbi", "machine learning", "deep learning", "nlp", "computer vision", "statistics", "data analysis", "data mining"]
+}

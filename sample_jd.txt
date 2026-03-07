@@ -1,0 +1,10 @@
+Senior Frontend Developer
+
+Required Skills:
+- 5+ years of experience with React, HTML, and CSS.
+- Proficiency in modern JavaScript (ES6+) and TypeScript.
+- Strong understanding of Node.js and Next.js.
+- Experience with Tailwind CSS for styling.
+- Familiarity with CI/CD pipelines, Docker, and AWS.
+- Experience working with REST APIs and GraphQL.
+- Strong problem-solving skills and ability to work in an Agile environment.
